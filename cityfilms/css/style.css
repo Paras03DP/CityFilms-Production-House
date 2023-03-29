@@ -1,7 +1,7 @@
 @import url("font-awesome.min.css");
 body {
   font-family: "Poppins", sans-serif;
-  color: black;
+  color: rgb(255, 255, 255);
   background-color: #272323;
 }
 
@@ -52,7 +52,7 @@ body {
   content: "";
   width: 60px;
   height: 7px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
   border-radius: 10px;
   position: absolute;
   bottom: 0;
@@ -503,6 +503,7 @@ a:focus {
 
 .about_section {
   background-color: #071a52;
+  color: black;
   border-radius: 0px 150px;
 }
 
@@ -557,6 +558,7 @@ a:focus {
 
 .abouts_section .detail-box {
   background-color: #ffffff;
+  color: black;
   padding: 45px 25px;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
@@ -566,6 +568,7 @@ a:focus {
 
 .abouts_section .detail-box p {
   margin-top: 5px;
+  color: black;
 }
 
 .abouts_section .detail-box a {
