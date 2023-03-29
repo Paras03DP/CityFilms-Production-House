@@ -502,9 +502,8 @@ a:focus {
 }
 
 .about_section {
-  background-color: #071a52;
+  background-color: rgba(77, 235, 106, 0.418);
   color: black;
-  border-radius: 0px 150px;
 }
 
 .about_section .row {
